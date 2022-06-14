@@ -22,7 +22,7 @@ from Curitiba :brazil:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="#numpy" height="40" style="max-width:100%;"></img>
 <img src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="skl" height="40" width="40" style="max-width:100%;"></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" height="40" style="max-width:100%;"></img>
-<img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/PowerBI.svg" alt="powerbi" height="40" style="max-width:100%;"></img>
+<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" alt="powerbi" height="40" style="max-width:100%;"></img>
  
 
       
