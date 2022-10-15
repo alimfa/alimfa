@@ -10,7 +10,7 @@ from Curitiba :brazil:
 ##
 
 #### Connect with me:
-https://www.linkedin.com/in/alinemfdearaujo/
+https://www.linkedin.com/in/alinemfdearaujo/ <br />
 https://medium.com/@mfaraujo.aline
 
           
