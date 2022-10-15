@@ -10,9 +10,8 @@ from Curitiba :brazil:
 ##
 
 #### Connect with me:
-<a href="https://www.linkedin.com/in/alinemfdearaujo/" target="blank">
-<img alt="aline-linkedin" height="30 width="30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
-</a>
+https://www.linkedin.com/in/alinemfdearaujo/
+https://medium.com/@mfaraujo.aline
 
           
  #### Languages and Tools:
