@@ -6,6 +6,8 @@ I am looking for challenges that allows me to grow and to develop at Big Data an
 
 
 from Curitiba :brazil:
+
+https://alinemfaportfolio.wordpress.com/
  
 ##
 
